@@ -1,0 +1,84 @@
+body {
+  background: #EBEBEB;
+  font-family:'Dosis', sans-serif;
+  color:black;
+  font-zize:15px;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-family:'Dosis',sans-serif;
+  color:#312F2F;
+  font-size: 22px;
+}
+
+h2 {
+  font-family: 'Dosis'sans-serif;
+  color:#BF98A0;
+  font-size: 20px;
+  font-weigth:300;
+}
+
+
+h3 {
+  font-family: 'Dosis'sans-serif;
+  color:#BF98A0;
+  font-size: 18px;
+  font-weigth:250;
+}
+
+
+a {
+  color:#BF98A0;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#BCCCE0;
+}
+/* Here goes your CSS */
+
+div {
+  display: block;
+}
+
+.container {
+  width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin:50px auto;
+  width:600px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.last {
+  width: 600px;
+  margin: 50px auto;
+  title-align: center;
+}
+
+ul {
+  list-style:none;
+  text-center:left;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+
+
+
+
+/* Here goes your CSS */
