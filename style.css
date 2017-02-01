@@ -1,4 +1,4 @@
-body {
+/* Here goes your CSS */body {
   background: #EBEBEB;
   font-family:'Dosis', sans-serif;
   color:black;
@@ -77,8 +77,27 @@ ul {
   padding-left: 0px;
 }
 
+#sidebar {
+  position: fixed;
+  width: 300px;
+  left: auto;
+  top: auto;
+  bottom: auto;
+  font-size:30px;
+  padding:auto;
+  margin-top:500px;
+  margin:30px;
+}
 
+#sidebar li {
+  padding-top: 50px;
 
+}
 
+#sidebar ul {
+  padding-top: 110px;
+}
 
-/* Here goes your CSS */
+#page-content {
+  margin-left: 300px;
+}
